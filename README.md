@@ -11,3 +11,7 @@ How to use:
    -When a count is successful then the bot reacts to your message with a green check mark.  When a count is unsuccessful then the bot reacts to your message with an "X" and a game over message; someone then must start counting again from 1.
 
    -The bot ignores any message that isn't strictly an integer.
+
+Technical Info:
+-Coded in python and hosted on replit.com
+-keep_alive.py is used to keep the bot alive for extended periods of time

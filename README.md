@@ -13,5 +13,7 @@ How to use:
    -The bot ignores any message that isn't strictly an integer.
 
 Technical Info:
+
 -Coded in python and hosted on replit.com
+
 -keep_alive.py is used to keep the bot alive for extended periods of time
